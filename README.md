@@ -1,20 +1,13 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+📝 Todo List App
 
-# Run and deploy your AI Studio app
+A simple and modern Todo List application built using HTML, CSS, and JavaScript.
+This app helps users manage daily tasks easily with a clean and responsive interface.
 
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/b961bd81-eee1-4e61-b67c-2ecc010b7b00
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+🚀 Features
+➕ Add new tasks
+❌ Delete tasks
+✅ Mark tasks as completed
+💾 Save tasks in browser (localStorage)
+🔍 Filter tasks (All / Completed / Pending)
+📱 Fully responsive design
+🎨 Clean and modern UI
