@@ -1,0 +1,6 @@
+{
+  "name": "Todo List",
+  "description": "A modern, highly polished, and responsive Todo list application with animations, filtering, and localStorage persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
